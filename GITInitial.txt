@@ -5,3 +5,5 @@ GITHUB LEARNING IN LONG TERM
 3. WHY GITHUB
 4. GIT VS GITHUB
 5. projects in github
+6. karthi asked to understand the kubernatics
+7. tamil asked to understand the github and dockers
